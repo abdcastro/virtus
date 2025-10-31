@@ -2,7 +2,9 @@
 Virtus is a anti-AI CAPTCHA system, using a technique that creates videos where shapes are invisible to AI vision systems but clearly visible to human observers. It exploits fundamental differences between human and artificial visual processing.
 
 How It Works
+
 The Core Principle: Temporal Coherence
+
 The human visual system is extraordinarily sensitive to temporal coherence - patterns that remain stable over time while surrounding elements change. This is a survival mechanism that helps us detect predators, track moving objects, and perceive structure in complex environments.
 AI vision systems, by contrast, analyze each frame independently and look for spatial statistical patterns. They cannot easily detect temporal coherence without being specifically trained for it.
 The Algorithm
