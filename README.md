@@ -1,5 +1,14 @@
 # virtus
+
 Virtus is a anti-AI CAPTCHA system, using a technique that creates videos where shapes are invisible to AI vision systems but clearly visible to human observers. It exploits fundamental differences between human and artificial visual processing.
+
+In this repository, we offer the core noise generation code that makes this effect possible.
+
+Astraea AI will soon offer the full integration of this system to your business on request.
+
+Reach out to https://www.linkedin.com/in/abdcastro/ for any questions.
+
+----------------------------------------------------------------------------------------
 
 How It Works:
 
